@@ -1,0 +1,14 @@
+﻿{
+  "Name": "academy.uipath.comlear…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "MbaqJqUcS0OA5al3lAIBcw",
+  "Reference": "6icunn-BREeHvTJZgzyxFQ/MbaqJqUcS0OA5al3lAIBcw",
+  "ParentRef": "6icunn-BREeHvTJZgzyxFQ/IqskW7JQzEa_RUW5hXNF-A",
+  "Created": "2025-12-07T10:26:57.7498077Z",
+  "Updated": "2025-12-07T10:26:57.7498077Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

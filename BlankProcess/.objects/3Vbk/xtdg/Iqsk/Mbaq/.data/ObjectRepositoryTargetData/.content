@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Dozdtv1RX0CeOfj406-5fw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="academy.uipath.com/learning-plans/automation-developer-professional-training" CVScreenId="8740962e-a30e-4f71-88d3-be940dc299c6" CvElementArea="150, 64, 1555, 44" CvType="InputBox" DesignTimeRectangle="205, 72, 1452, 31" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Automation Developer Professional Training (v2024.10) Course | U*' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="eeb5fe7d-8147-4596-854d-956af5950757" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Automation Developer Professional Training (v2024.10) Course | U*' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9ec77f1905c346e820f553634e72152e.png" xmlns="">0B72u0tNhlUOt3M1CbvRcDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

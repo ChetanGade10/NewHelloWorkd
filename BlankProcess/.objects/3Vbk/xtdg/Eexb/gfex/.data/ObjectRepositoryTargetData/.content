@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uyAXjok69UG0jLzyRAdUCg" Reference="6icunn-BREeHvTJZgzyxFQ/gfexmRtjjEGKUvuUf55uNg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="academy.uipath.com/learning-plans/automation-developer-professional-training" CVScreenId="c15fa938-eee8-4b44-ad40-db1afecd8862" CvElementArea="103, 208, 23, 22" CvType="CloseButton" DesignTimeRectangle="109, 213, 11, 12" ElementType="Icon" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;nav&amp;gt;div&amp;gt;button&amp;gt;svg&amp;gt;path' tag='path' /&gt;" Guid="c9232764-4205-4aa9-b5d9-fd58feec7346" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADhSURBVDhPrVFrCoJAEO6MnaC/3aMiKLKHFWVRFiW97XWp1LqA68Q3payuEJIfLOx+j2FmtkB/oJAksiCfsOM9yTpdKQiCuEMCNHgc1+N3FF7tz1QslalrzFMLgIMGz/pwYS4KQ9SnSxabfSNWwBeCOWjwhFpsZpDt0YxN9c6QfN/nU2npzEGTiyoLkwvUtAFVtf53HFMZRwkDQghq6GMO4eCeDAL5huW20XLYdnJeIJ+FycFfXxUiCi939kecLJT2AHC9icke63hlLgo/XI+29j01GALaxr6R+3zxW1lYFrwBi+5mBEr4Dt4AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Developer Professional Training (v2024.10) Course | UiPath Academy' /&gt;" SearchSteps="Selector, Image, CV, SemanticSelector" SemanticSelectorArgument="The icon to close the current view or section" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="0MQIz9Lhx40idCHxakZ2fDg" xmlns="">0MQIz9Lhx40idCHxakZ2fDg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="LvoJO_cuxkCrY2wqoKQ-og" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAA6SURBVDhPY/juJ/cfF2ZgYGCo38XwHxcGyTOgaxo1YCAMoBwsef8fJ2ZgYPi/k+E/LjxqwOAxgEIAAE2e5IMOgF4vAAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' title='Sign in to your account' /&gt;" Url="https://login.microsoftonline.com/f7f7157e-03dd-4df4-a10b-f59d8fe642d0/saml2" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="fecc166a631b1d5bbc942beac7815a44.jpg" xmlns="">0bPL1qlE7VkyFLdT3wW38gg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

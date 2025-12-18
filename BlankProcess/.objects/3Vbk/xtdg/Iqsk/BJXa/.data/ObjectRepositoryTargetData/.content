@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="w481Dqh5lU-2wTzY0J1zMQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="academy.uipath.com/learning-plans/automation-developer-professional-training" CVScreenId="11ed4c52-0e82-466c-94f8-d9b212d1f35f" CvElementArea="528, 125, 97, 50" CvTextArea="551, 142, 50, 15" CvTextArgument="Cancel" CvType="Button" DesignTimeRectangle="532, 126, 90, 48" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Automation Developer Professional Training (v2024.10) Course | U*' role='pane' /&gt;&lt;ctrl name='Infobar Container' role='grouping' /&gt;&lt;ctrl name='Cancel' role='push button' /&gt;" Guid="701d7ecf-59fe-4707-a581-f9b063249bef" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Automation Developer Professional Training (v2024.10) Course | U*' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5430d16bc10d8d7913c08d2d3585b481.png" xmlns="">0aF6uKH4eYU6FxxxTQnFUsw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

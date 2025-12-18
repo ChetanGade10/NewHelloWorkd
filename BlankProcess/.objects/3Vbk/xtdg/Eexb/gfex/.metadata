@@ -1,0 +1,14 @@
+﻿{
+  "Name": "About this course",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "gfexmRtjjEGKUvuUf55uNg",
+  "Reference": "6icunn-BREeHvTJZgzyxFQ/gfexmRtjjEGKUvuUf55uNg",
+  "ParentRef": "6icunn-BREeHvTJZgzyxFQ/EexbrMNfNEKDrEy4dNaTwA",
+  "Created": "2025-12-08T06:10:21.5627436Z",
+  "Updated": "2025-12-08T06:10:21.5627436Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

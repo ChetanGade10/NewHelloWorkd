@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Chrome Automation Developer Professional Trai",
+  "Description": "abc",
+  "Type": "Screen",
+  "Id": "S-cjTrzsCUOxuAWsGONBWw",
+  "Reference": "6icunn-BREeHvTJZgzyxFQ/S-cjTrzsCUOxuAWsGONBWw",
+  "ParentRef": "6icunn-BREeHvTJZgzyxFQ/xtdgV4x1Y0StUHSJ_UsHBg",
+  "Created": "2025-12-06T05:30:34.483392Z",
+  "Updated": "2025-12-06T05:37:33.0263927Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

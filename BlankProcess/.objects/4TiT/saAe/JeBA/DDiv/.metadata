@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Google",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "DDivJzkPq0CMYZUYLhvDHA",
+  "Reference": "6icunn-BREeHvTJZgzyxFQ/DDivJzkPq0CMYZUYLhvDHA",
+  "ParentRef": "6icunn-BREeHvTJZgzyxFQ/JeBAhSdIt0GfpPi3Jr3wPw",
+  "Created": "2025-12-11T07:17:37.2442221Z",
+  "Updated": "2025-12-11T07:17:37.2442221Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

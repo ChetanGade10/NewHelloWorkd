@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="bF4H0x0dWkW7u2UexM_qCA" Reference="6icunn-BREeHvTJZgzyxFQ/nmeoozfIM0aqrKFsfcbzbw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" ContentHash="vX8Ln-Hn4kqF8EGp251dPg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAMAAADQmBKKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADDUExURf////9hAACZ//+2KQoVUf/r3/+wgP91IBCf/8/s/6DY///78f/SeSkyZ//EUeHh6aOnvu/5///25P/tyd/y/0Cz//9+ML/l/5DT/yCm///IX/+cYP+IQP+7N//blP/Wh/+/RP9rEGC////x1//Xv/+6kP+mcIDM/1C5/9LT3v/kr//En3DG//Dw9P/17//hz7O2yaOnvf/ovP/Nr09XghkjXP+SUK/f/5/Z/zCs/8LF04WKqISKqGVtkv+6jzlBcv/NbDrZfd0AAAOOSURBVHhe7dl5U+IwGMfx9EB0QVfAAnIoiuJ9rcfe677/V7UDFHzya5p0zNNmdzbfP9tnOp8JqcUihM/n8/l8Pp/P5/P5/ulavevzJDnv7+EJN7XONsO0ZAtPOqi3v+LMu8bTlfeBcsIw/NrCiWpDTxge40ilZT1h2MehClN5wk13H5rS43CJcjxhgoMVlecJQzefWb4nVPzFvj0dduujl6sanmBL4wl7OFwbBauGJZF0ngzodM2ZtwFnWdJ6cA9tSJ5SRHrPvjyMnhJEeg88PLKeIDiRJqwzeOSbTOUJRnTCOpNHWiClh3eJTJ59ukA5nmBGZiwzeTbpl8Y8T9AlQ3bxeIIjMmUVkycIyJhNbB4mEJ+HZw/xeYIhmXx3jJ7gioy+N05PnYy+N04PxwKxehgeZayeuv2XRu/R10MAVLVnT3rfkq1qjzhGgVzlnj0UyFXuEX0kSFXvEQkaaA48Yv1GU5ELj0AEyYlHA3LjEbl/hRx5xDlC0lx58m57Zx7RUt5m7jxCnCHGsUe0stvaqUeILfzQHHsyIuce+EqUFHnfsqocjxDiy+oZm0ivWJ15Fr9j9s/6n+UXrC49qrxH39/mkX8vyFa1p3aEArmqPWKIAjnZ0zn4vbMzOLxs0IPM6RdI8nQGUdq42SbHWTtBghT1NJorzrxJh16FMe0tJnl2qCeKokt6Gb50W0jriaJy1kgDMniiSSlbe4aMdSZPFB3QC3GV+2fR7InGZSzRHULSCnhK2kVdpCwq5IkO6YW4+oWWecU8UZNeiC3FEhX0RAN6HbayT9einpJA4g5EhT22e+hm9x4PLavVqWd0+3ZG77F8elw8x/H2Rzy6bGNN6j6SwwZPZPfIf43jfJF4nI263ZeZ9Du8yWN5k809GlE2k8dygVJQcZHRY/soS0FFRUaP5S32BiooWn9dzclyA1FQIdEBAiB7DwEVELURADF4KMgsMiwQh0cCGUX6Hc3ikUEGUQMJUjweAOlFHTTQmDwI0op0IC5PBqQTaUBsnixII8q/6/k8CpBGNEZIGqNHBcoXSS8W3uL0KEG5IvUmYvWoQbki1bOV1yOe0bJs+wYHF7Wzu4jZI56QkvYDB5dNUcTtEd9QkvYTB9OmE8lj/X0s23ekLHvAuVVtcqtNPuFZjh62ERPH8RNOkdrNxSqNB6Vw5l3c70IXOAI1plPLfy58Pp/P5/P5fD6f7//pD2RVQ+nI/BjrAAAAAElFTkSuQmCC" Reference="6icunn-BREeHvTJZgzyxFQ/nmeoozfIM0aqrKFsfcbzbw" Selector="&lt;html app='chrome.exe' title='DEMO Test - Sample Form Template | Jotform' /&gt;" Url="https://www.jotform.com/form-templates/demo-test-sample" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="2b01980496cacbc2f99fa302ca49ac93.jpg" xmlns="">07EcsnFWlo0i_x02hrbsYJA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

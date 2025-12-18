@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MRMGj8CP40CIaTWX8Slnmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/f7f7157e-03dd-4df4-a10b-f59d8fe642d0/login" CVScreenId="83a6ff91-69fa-408a-b67d-2c04fe30c4c2" CvTextArea="750, 657, 147, 18" CvTextArgument="Forgot password" CvType="Text" DesignTimeRectangle="749, 623, 440, 45" DesignTimeScaleFactor="1.25" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='idTxtBx_SAOTCC_OTC' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='idTxtBx_SAOTCC_OTC' tag='INPUT' type='tel' class='form-control' placeholder='Code' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="5042c312-580f-4ffd-9096-034b56654c11" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sign in to your account' /&gt;" SearchSteps="Selector, CV" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="51fdc281012498db5b908593a1e49e2c.png" xmlns="">0wzUFQErAJka8n8YHzsJ5lw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

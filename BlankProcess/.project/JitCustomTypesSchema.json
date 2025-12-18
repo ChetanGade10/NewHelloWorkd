@@ -1,0 +1,103 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 0,
+        "idRef": "AddListItemConnections`1_1",
+        "hash": "AddListItemConnections`1_1|DataRow|IE89oBcRPHRJIdZnsaTfUlbw6wQkXdCM10nO1fy6c",
+        "dataType": "System.Data.DataRow, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Title",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "Title",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "FarmId",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "Farm Id",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "FileTypeProgid",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "File Type ProgID",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "Flags",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "Flags",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "HasFeed",
+            "dataType": "System.Boolean, System.Private.CoreLib",
+            "name": "Has Feed",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "IconUrl",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "Icon Url",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "LastPostId",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "Last Post",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "Hidden",
+            "dataType": "System.Boolean, System.Private.CoreLib",
+            "name": "Not Visible In Feed",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "ParentUrl",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "Parent Url",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "ServerUrlProgid",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "Server Url ProgID",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "SocialProperties",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "Social Properties",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "Url",
+            "dataType": "System.String, System.Private.CoreLib",
+            "name": "Url",
+            "category": "Simplified"
+          },
+          {
+            "columnName": "ID",
+            "dataType": "System.Object, System.Private.CoreLib",
+            "name": "ID",
+            "category": "Simplified"
+          }
+        ],
+        "rowExtensionProperties": [],
+        "nestedRowExtensionProperties": []
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataRow0",
+        "hash": "AddListItemConnections`1_1|DataRow|NZf8VcTWENEzFERoEEnJgaAEYRwyWk8S4lGNxt3ao",
+        "assemblyName": "Studio.Generated.TypedDataRow0"
+      }
+    }
+  ]
+}

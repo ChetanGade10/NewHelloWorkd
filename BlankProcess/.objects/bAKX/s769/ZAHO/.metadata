@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome rpa uipath tutorial - Yahoo Video Sear",
+  "Type": "Screen",
+  "Id": "ZAHOOYRgNk6Np43T4X9Z1Q",
+  "Reference": "6icunn-BREeHvTJZgzyxFQ/ZAHOOYRgNk6Np43T4X9Z1Q",
+  "ParentRef": "6icunn-BREeHvTJZgzyxFQ/s769OpywikOxA4InEQdFzQ",
+  "Created": "2025-12-06T07:16:38.9979511Z",
+  "Updated": "2025-12-06T07:16:38.9979511Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.21.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

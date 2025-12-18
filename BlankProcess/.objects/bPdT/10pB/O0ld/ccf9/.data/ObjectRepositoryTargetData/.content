@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QE3ASogjqU662ICHkI85gw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/f7f7157e-03dd-4df4-a10b-f59d8fe642d0/saml2" DesignTimeRectangle="694, 372, 550, 433" DesignTimeScaleFactor="1.25" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='lightbox' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id='lightbox' tag='DIV' type='' class='sign-in-box ext-sign-in-box fade-in-lightbox' aaname='                                                                                                                                                                                                                                                                                                                                                              ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='chetan.gade@nrg.com&amp;#xA;Enter password&amp;#xA;Forgot my password' /&gt;" Guid="1ba78357-d4e6-4354-bcf1-4a4efda8ab26" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sign in to your account' /&gt;" SearchSteps="Selector" Version="V6">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="51d0392041342ef3d6f28a4ae4d427a6.png" xmlns="">0mo57TAg0TEy_4fpdavXxDA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

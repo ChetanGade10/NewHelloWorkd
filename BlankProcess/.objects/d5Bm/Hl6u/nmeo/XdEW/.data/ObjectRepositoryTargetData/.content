@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="n7s17KF6tUeXFrHIVjqYLw" Reference="6icunn-BREeHvTJZgzyxFQ/XdEWU8Zi2ECr6fnLa3-rrw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="academy.uipath.com/learning-plans/automation-developer-professional-training" CVScreenId="26ade325-d0d7-4ceb-a8dc-a540d4154e06" CvElementArea="142, 64, 1521, 44" CvType="InputBox" DesignTimeRectangle="205, 72, 1407, 31" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Automation Developer Professional Training (v2024.10) Course | U*' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="a40c11e5-fcb5-4ff3-8a44-994524e8f645" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Automation Developer Professional Training (v2024.10) Course | U*' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="26ade325-d0d7-4ceb-a8dc-a540d4154e06" CvElementArea="142, 64, 1521, 44" CvType="InputBox" DesignTimeRectangle="165, 72, 31, 31" ElementType="Button" FuzzySelectorArgument="&lt;ctrl name='Automation Developer Professional Training (v2024.10) Course | U*' role='pane' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='View site information' role='menu button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='View site information' /&gt;" Guid="d6905436-b452-4a58-b9b4-3555db569533" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8dcc2cea99177397806a96bb231d40d8.png" xmlns="">0t_fclv2u70OH6148kfyxcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
